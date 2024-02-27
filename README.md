@@ -17,12 +17,10 @@ Here are some ideas to get you started:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lokesh Teja Mamidi
 ==========================================================================================================================================
 
-Data Scientist
+Data Scientist with a Passion for Innovation
 --------------
-Leveraging a robust blend of technical expertise and industry experience, I specialize in transforming complex data into actionable insights and innovative solutions. My journey in Data Science is marked by a relentless pursuit of knowledge, culminating in hands-on proficiency with machine learning, deep learning, time series forecasting, and natural language processing. Whether it's enhancing sentiment analysis models or pioneering fault detection systems, my projects reflect a deep commitment to driving progress and efficiency.
 
-
-Drawing from my diverse background in Data Science and Engineering, I bring a unique blend of analytical skills and industry knowledge to tackle complex challenges. My hands-on experience with machine learning, deep learning, time series forecasting and natural language processing, enhanced by projects like sentiment analysis and fault detection systems, underscores my ability to derive insights and drive innovation. My commitment to continuous learning, illustrated by a robust academic foundation and practical projects, positions me as a dynamic candidate eager to contribute to and grow with forward-thinking teams.
+Drawing from my diverse background in Data Science and Engineering, I bring a unique blend of analytical skills and industry knowledge to tackle complex challenges. My hands-on experience with machine learning, deep learning, time series forecasting, natural language processing, and Large Language Models's underscores my ability to derive insights and drive innovation. My commitment to continuous learning, illustrated by a robust academic foundation and practical projects, positions me as a dynamic candidate eager to contribute to and grow with forward-thinking teams.
 
 * 🌍  I'm based in Chicago
 * ✉️  You can contact me at [lokeshteja477@gmail.com](mailto:lokeshteja477@gmail.com)

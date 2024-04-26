@@ -18,7 +18,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==========================================================================================================================================
 
 Data Scientist with a Passion for Innovation
---------------
+---------------------------------------------
 
 Drawing from my diverse background in Data Science and Engineering, I bring a unique blend of analytical skills and industry knowledge to tackle complex challenges. My hands-on experience with machine learning, deep learning, time series forecasting, natural language processing, and Large Language Models's underscores my ability to derive insights and drive innovation. My commitment to continuous learning, illustrated by a robust academic foundation and practical projects, positions me as a dynamic candidate eager to contribute to and grow with forward-thinking teams.
 

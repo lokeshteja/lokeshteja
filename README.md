@@ -20,7 +20,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Drawing from my diverse background in Data Science and Engineering, I bring a unique blend of analytical skills and industry knowledge to tackle complex challenges. My hands-on experience with machine learning, deep learning, time series forecasting, natural language processing, and Large Language Models's underscores my ability to derive insights and drive innovation. My commitment to continuous learning, illustrated by a robust academic foundation and practical projects, positions me as a dynamic candidate eager to contribute to and grow with forward-thinking teams.
 
-* 🌍  I'm based in Chicago
+* 🌍  I'm based in Atlanta
 * 🧠  I'm learning about Large Language Models and Generative AI.
 * 🤝  I'm open to collaborating on impactful projects, particularly those focused on Large Language Models and Generative AI.
 * ⚡  As someone passionate about fitness and adventure, I'm always on the lookout for new experiences. Equestrianism is the next exciting challenge on my bucket list!
